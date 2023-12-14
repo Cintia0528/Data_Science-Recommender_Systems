@@ -21,9 +21,7 @@ WBSFLIX Recommendation Systems provide users with personalized movie suggestions
 The project includes a **Google Colab notebook** [here]() containing the code for all recommendation systems, a **Python notebook** [here]() including the Streamlit code and the [URL]() for the deployed website. 
 Since Streamlit glitches quite often, I also included a video of the finished product. 
 
-                                                 
-                                                 
-                                                 ![Streamlit Recommendation Systems](https://github.com/Cintia0528/Project-9-Recommender-Systems/assets/141332036/cf0f8fcf-cbbe-4afe-82ba-5890d18f03e7)
+![Streamlit Recommendation Systems](https://github.com/Cintia0528/Project-9-Recommender-Systems/assets/141332036/cf0f8fcf-cbbe-4afe-82ba-5890d18f03e7)
 
 
 ## Skills and Tools
