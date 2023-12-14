@@ -18,7 +18,7 @@ WBSFLIX Recommendation Systems provide users with personalized movie suggestions
 4. **Random Recommender:** Introduced an adventurous element by randomly recommending movies, diversifying the user experience.
 
 ## Deliverables
-The project includes a Google Colab notebook [here]() containing the code for all recommendation systems and a Python notebook [here]() including the Streamlit code and the URL [here]() for the deployed website. 
+The project includes a **Google Colab notebook** [here]() containing the code for all recommendation systems, a **Python notebook** [here]() including the Streamlit code and the [URL]() for the deployed website. 
 
 ## Skills and Tools
 - Python
