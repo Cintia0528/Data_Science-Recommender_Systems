@@ -1,7 +1,7 @@
 # WBSFLIX Recommendation Systems
 
 ## Goal
-The goal of this project is to **develop recommendation systems** for a hypothetical website named WBSFLIX, aiming to replicate the user experience of popular platforms like NETFLIX. **Four distinct recommendation systems were implemented**: Popularity Ranking, Memory-Based Collaborative Filtering (User-Based and Item-Based), and a Random Recommender.
+The goal of this project is to **develop recommendation systems** for Ursula, the owner of a hypothetical company named WBSFLIX, aiming to go digital. The aim is to replicate the user experience of popular platforms like NETFLIX. **Four distinct recommendation systems were implemented**: Popularity Ranking, Memory-Based Collaborative Filtering (User-Based and Item-Based), and a Random Recommender.
 
 ## Overview
 WBSFLIX Recommendation Systems provide users with personalized movie suggestions based on different algorithms. 
