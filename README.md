@@ -18,7 +18,7 @@ WBSFLIX Recommendation Systems provide users with personalized movie suggestions
 4. **Random Recommender:** Introduced an adventurous element by randomly recommending movies, diversifying the user experience.
 
 ## Deliverables
-The project includes a **Google Colab notebook** [here]() containing the code for all recommendation systems, a **Python notebook** [here]() including the Streamlit code and the [URL]() for the deployed website. 
+The project includes a **Google Colab notebook** [here](https://github.com/Cintia0528/Project-9-Recommender-Systems/blob/3d5e876b1598180a1885a3c049a9061fcac8bf32/Movie_Recommenders_Final.ipynb) containing the code for all recommendation systems, a **Python notebook** [here](https://github.com/Cintia0528/Project-9-Recommender-Systems/blob/3d5e876b1598180a1885a3c049a9061fcac8bf32/app.py) including the Streamlit code and the [URL]() for the deployed website. 
 Since Streamlit glitches quite often, I also included a video of the finished product. 
 
 ![Streamlit Recommendation Systems](https://github.com/Cintia0528/Project-9-Recommender-Systems/assets/141332036/cf0f8fcf-cbbe-4afe-82ba-5890d18f03e7)
